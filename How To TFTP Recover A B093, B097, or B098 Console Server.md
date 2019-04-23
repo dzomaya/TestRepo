@@ -6,11 +6,11 @@ It is recommended to first attempt a hard reset of the console server before fol
 https://www.tripplite.com/support/how-to-reset-a-console-servers-factory-default-settings
 
 ## Requirements
-•	TFTP server 
-•	B093, B097, or B098 console server
-•	Firmware file
-•	Access to console server’s console port (port #1 for B093s)
-•	Network connectivity between console server and TFTP server
+*	TFTP server 
+*	B093, B097, or B098 console server
+*	Firmware file
+*	Access to console server’s console port (port #1 for B093s)
+*	Network connectivity between console server and TFTP server
 
 ## Steps
 

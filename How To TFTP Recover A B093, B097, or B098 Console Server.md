@@ -1,4 +1,4 @@
-# How To TFTP Recover A B093, B097, or B098 Tripp Lite Console Server
+# DRAFT Do NOT USE: How To TFTP Recover A B093, B097, or B098 Tripp Lite Console Server
 
 ## Purpose
 To demonstrate how an otherwise unresponsive, misconfigured, or misbehaving console server could be recovered using TFTP.

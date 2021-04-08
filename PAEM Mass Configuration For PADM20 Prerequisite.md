@@ -65,7 +65,7 @@ Here is a before and after example of what the section of the configuration file
 8. In PAEM, from the  **Manage** → **Mass Configuration** section (close the Device Configuration pop-up if needed), click **Import**
 ![image](https://user-images.githubusercontent.com/17661803/113946681-94c61a00-97ce-11eb-9b64-8453ae024f40.png)
 9. Select the configuration file you saved in step 7.
-    ![image](https://user-images.githubusercontent.com/17661803/113946902-1027cb80-97cf-11eb-9814-40664df1ab6b.png)
+    ![image](https://user-images.githubusercontent.com/17661803/113949084-081e5a80-97d4-11eb-9da2-c047eef10faa.png)
 10. \[Optional] To avoid errors, delete the original configuration file from step 1.
       ![image](https://user-images.githubusercontent.com/17661803/113947323-094d8880-97d0-11eb-947d-7850573997ce.png)
 

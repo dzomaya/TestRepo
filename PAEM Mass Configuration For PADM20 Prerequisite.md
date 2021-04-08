@@ -56,11 +56,10 @@ The process assumes familarity with using PAEM and a text editor (e.g. Notepad o
         } ]
       },
     ```
-Here is a before and after example of what the section of the configuration file should look like:
-![image](https://user-images.githubusercontent.com/17661803/113946202-71e73600-97cd-11eb-8fbb-0c05eef8c3e1.png)
-**Note: If you do NOT want to mass configure DNS settings, you should remove the "network_config/dns" section as well.**
-
-
+    Here is a before and after example of what the section of the configuration file should look like:
+    ![image](https://user-images.githubusercontent.com/17661803/113946202-71e73600-97cd-11eb-8fbb-0c05eef8c3e1.png)
+    **Note: If you do NOT want to mass configure DNS settings, you should remove the "network_config/dns" section as well.**
+    
 7. Save the configuration file with a new name.
 8. In PAEM, from the  **Manage** → **Mass Configuration** section (close the Device Configuration pop-up if needed), click **Import**
 ![image](https://user-images.githubusercontent.com/17661803/113946681-94c61a00-97ce-11eb-9b64-8453ae024f40.png)
